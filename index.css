@@ -1,0 +1,56 @@
+body{
+    background-color:hsl(30, 54%, 90%);
+       }
+.main{
+    background-color:white ;
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 400px;
+    padding: 20px;
+    
+    
+}
+
+.h2{
+    color: hsl(14, 45%, 36%);
+}
+li{color: hsl(14, 45%, 36%); }
+
+li span{color: black}
+
+img{
+    width: 350px;
+    padding: 20px;
+    margin-left: 150px;
+    border-radius: 50px;
+    
+}
+h1{
+    color: hsl(14, 45%, 36%); 
+}
+ol{
+    color: hsl(14, 45%, 36%);
+    background-color:hsl(0, 0%, 100%)
+}
+/* ul{
+    color: hsl(14, 45%, 36%);
+    background-color: hsl(30, 18%, 87%);
+} */
+.test {
+    background-color: rgb(249, 213, 219);
+    opacity: 0.5;
+}
+.attribution{
+    margin-left: 600px;
+}
+hr{
+    opacity: 0.8%;
+}
+h2{
+    color: hsl(14, 45%, 36%);
+}
+    
+
+
+
+   
